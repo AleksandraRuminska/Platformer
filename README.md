@@ -28,7 +28,7 @@ The player may fight and kill the enemies by:
 ## Special objects
 * Coins - by collecting them, the player gains points. Different sizes of coins give different amount of points
 * Toadstool - by jumping on it, player gains extra bounciness, which allows them to reach higher platforms
-* Ladder - by climbing the ladder, the player may reach platforms that are hard to reach or escape from the enemy path
+* Ladder - by climbing the ladder, the player may reach platforms that are hard to reach, escape from the enemy path or view more of the area
 
 
 ## Scenes from the game:
